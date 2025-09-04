@@ -152,7 +152,7 @@ const About = () => {
         </div>
       </section>
 
-      {/* Mission, Vision, Story Section - PROFESSIONAL CLEAN DESIGN */}
+      {/* Mission, Vision, Story Section*/}
       <section className="aboutpage-content-section">
         <div className="aboutpage-content-wrapper">
           <div className="aboutpage-content-header">

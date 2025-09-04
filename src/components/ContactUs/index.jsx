@@ -33,7 +33,7 @@ class Contact extends Component {
         phone: "",
       },
       isSubmitting: false,
-      submitStatus: "", // "", "success", "error"
+      submitStatus: "",
       submitMessage: "",
     };
   }

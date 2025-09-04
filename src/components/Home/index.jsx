@@ -16,9 +16,9 @@ import {
   Globe,
   CheckCircle,
   Star,
-  Bot, // Add this
-  Puzzle, // Add this
-  RefreshCw, // Add this
+  Bot,
+  Puzzle,
+  RefreshCw,
 } from "lucide-react";
 import "./index.css";
 

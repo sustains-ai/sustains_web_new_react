@@ -1,10 +1,9 @@
-/* Services Page Main Container */
 .servicepage-container {
   min-height: 100vh;
   background: linear-gradient(to bottom, #f8fafc, #ffffff);
 }
 
-/* Hero Section - UNCHANGED */
+/* Hero Section*/
 .servicepage-hero-section {
   padding-top: 6rem;
   padding-bottom: 1rem;

@@ -9,7 +9,6 @@ import Services from "./components/Services";
 import ContactUs from "./components/ContactUs";
 import "./App.css";
 
-// Simple NotFound component for invalid routes
 const NotFound = () => (
   <div>
     <h1>404 - Page Not Found</h1>
