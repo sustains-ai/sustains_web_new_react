@@ -429,7 +429,7 @@ const Home = () => {
 
           {/* Main Content Grid */}
           <div className="Homepage-benefits-main-grid">
-            {/* Left side - 2x2 Grid of Benefit Cards */}
+            {/* Left side*/}
             <div className="Homepage-benefits-left">
               <div className="Homepage-benefits-cards-grid">
                 {benefits.map((benefit, index) => (
